@@ -52,4 +52,6 @@ Cross has park ident.
 
 Cross has park node.
 
+Cross has park any.
+
 Cross has major.
