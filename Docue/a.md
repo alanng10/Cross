@@ -50,4 +50,6 @@ Cross has park kind arch land.
 
 Cross has park ident.
 
+Cross has park node.
+
 Cross has major.
