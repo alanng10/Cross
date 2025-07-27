@@ -59,3 +59,5 @@ Cross has park refer.
 Cross has park mark.
 
 Cross has major.
+
+Cross has major on noun.
