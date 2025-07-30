@@ -64,7 +64,7 @@ Cross has major on noun.
 
 Cross has major on tool.
 
-Cross has major on ident. 
+Cross has major on ident.
 
 Cross has major on node.
 
