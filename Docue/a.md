@@ -61,3 +61,5 @@ Cross has park mark.
 Cross has major.
 
 Cross has major on noun.
+
+Cross has major on tool.
