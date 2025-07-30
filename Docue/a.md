@@ -62,7 +62,7 @@ Cross has major.
 
 Cross has major on noun.
 
-Cross has major on tool. 
+Cross has major on tool.
 
 Cross has major on ident.
 
