@@ -73,3 +73,7 @@ Cross has major on any.
 Cross has major on refer.
 
 Cross gain has regain.
+
+Cross has improve on order.
+
+Cross has improve on gain order.
