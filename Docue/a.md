@@ -71,3 +71,5 @@ Cross has major on node.
 Cross has major on any.
 
 Cross has major on refer.
+
+Cross gain has regain.
